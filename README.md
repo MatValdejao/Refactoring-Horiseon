@@ -4,7 +4,7 @@
 ![image](./assets/images/horiseon-webpage-deployed-url.png)
 
 ## Description
-Source code for Horiseon website was received, reviewed and analyzed. Upon deliberation, modifications to the website's source code were performed to:
+-Source code for Horiseon website was received, reviewed and analyzed. Upon deliberation, modifications to the website's source code were performed to:
     - Correct appearance of website
     - Improve the functionality of website
     - Provide more descriptive title 
