@@ -1,7 +1,7 @@
 # Refactoring-Horiseon Website
 
 ## Website screenshot
-![image](./assets/images/horiseon-webpage-deployed-url.png)
+![image](./assets/images/horiseon-deployed-webpage-screenshot.png)
 
 ## Description
 Source code for Horiseon website was received, reviewed and analyzed. Upon deliberation, modifications to the website's source code were performed to:
