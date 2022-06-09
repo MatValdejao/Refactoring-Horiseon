@@ -95,7 +95,7 @@ p {
 }
 
 /* condensed headers of benefits-form class into one */
-.benefit-form h3 {
+.benefit-form h2 {
     margin-bottom: 10px;
     text-align: center;
 }
