@@ -13,4 +13,4 @@ Source code for Horiseon website was received, reviewed and analyzed. Upon delib
  - Provide accessibility modifications to source code
 
 ## Deployed URL
-https://matvaldejao.github.io/Refactoring-Horiseon/
+https://matvaldejao.github.io/Refactoring-Horiseon-Website/
